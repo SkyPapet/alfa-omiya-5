@@ -514,6 +514,7 @@ button {
 }
 /*# sourceMappingURL=style.css.map */
 
-.box bg-color--subcolor > p{
+.tips{
+  text-align:center;
   color:black;
-};
+}
