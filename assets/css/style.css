@@ -513,3 +513,7 @@ button {
   display: none;
 }
 /*# sourceMappingURL=style.css.map */
+
+.box bg-color--subcolor > p{
+  color:black;
+};
