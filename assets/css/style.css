@@ -255,7 +255,12 @@ button {
 * title
 **********************/
 .main-title {
+  text-align:center;
   margin: 0;
+}
+
+.top-image{
+  width:80%;
 }
 
 .sub-title {
