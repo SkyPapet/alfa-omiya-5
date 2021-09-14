@@ -403,6 +403,13 @@ button {
 
 .footer {
   font-size: 16px;
+  background-color:gray;
+  margin-top:30px;
+}
+
+p.fotter-text{
+  color:white;
+  text-align:center;
 }
 
 .footer p:first-child {
